@@ -1,0 +1,47 @@
+.card{
+  width: 500px;
+  border: 2px solid  greenyellow;
+  margin-top: 35px;
+  border-radius: 20px;
+}
+.root{
+    display: grid;
+    width: 100%;
+  grid-template-columns: repeat(4,1fr);        
+  background-color: black;
+  color: greenyellow;
+  
+}
+.sssss{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 40px
+  ;
+}
+.laptop{
+  width: 200px;
+  height: 50px;
+  color: red;
+  font-style: 20px;
+  border-radius: 20px;
+  background-color: black;
+}
+
+.keyboards{
+  width: 200px;
+  height: 50px;
+  color: red;
+  font-style: 20px;
+  border-radius: 20px;
+  background-color: black;
+}
+
+.headsets{
+  width: 200px;
+  height: 50px;
+  color: red;
+  font-style: 20px;
+  border-radius: 20px;
+  background-color: black;
+}
